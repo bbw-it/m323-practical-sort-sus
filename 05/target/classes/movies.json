@@ -1,0 +1,1202 @@
+[
+  {
+    "title": "Beyond Empire",
+    "year": 2017,
+    "rating": 4.9,
+    "duration": 140,
+    "genre": "Action",
+    "director": {
+      "name": "Jordan Peele",
+      "country": "Germany",
+      "birthYear": 1982
+    }
+  },
+  {
+    "title": "Ghost Dust",
+    "year": 2002,
+    "rating": 2.2,
+    "duration": 103,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Christopher Nolan",
+      "country": "South Korea",
+      "birthYear": 1966
+    }
+  },
+  {
+    "title": "Virtual Signal",
+    "year": 1993,
+    "rating": 2.4,
+    "duration": 126,
+    "genre": "Action",
+    "director": {
+      "name": "Chlo\u00e9 Zhao",
+      "country": "France",
+      "birthYear": 1956
+    }
+  },
+  {
+    "title": "The Circuit",
+    "year": 2003,
+    "rating": 3.0,
+    "duration": 92,
+    "genre": "Adventure",
+    "director": {
+      "name": "Jane Campion",
+      "country": "India",
+      "birthYear": 1962
+    }
+  },
+  {
+    "title": "Virtual Path",
+    "year": 2023,
+    "rating": 3.2,
+    "duration": 139,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Steven Spielberg",
+      "country": "France",
+      "birthYear": 1991
+    }
+  },
+  {
+    "title": "First Whisper",
+    "year": 2009,
+    "rating": 2.6,
+    "duration": 91,
+    "genre": "Drama",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "South Korea",
+      "birthYear": 1976
+    }
+  },
+  {
+    "title": "Beyond Protocol",
+    "year": 1996,
+    "rating": 5.0,
+    "duration": 155,
+    "genre": "Action",
+    "director": {
+      "name": "Quentin Tarantino",
+      "country": "Japan",
+      "birthYear": 1951
+    }
+  },
+  {
+    "title": "Cold Mirage",
+    "year": 2023,
+    "rating": 3.2,
+    "duration": 105,
+    "genre": "Thriller",
+    "director": {
+      "name": "Steven Spielberg",
+      "country": "UK",
+      "birthYear": 1983
+    }
+  },
+  {
+    "title": "Echo Bloom",
+    "year": 1993,
+    "rating": 4.5,
+    "duration": 109,
+    "genre": "Drama",
+    "director": {
+      "name": "Hayao Miyazaki",
+      "country": "USA",
+      "birthYear": 1962
+    }
+  },
+  {
+    "title": "A Dust",
+    "year": 2016,
+    "rating": 2.2,
+    "duration": 130,
+    "genre": "Action",
+    "director": {
+      "name": "Greta Gerwig",
+      "country": "Germany",
+      "birthYear": 1973
+    }
+  },
+  {
+    "title": "Nova Kernel",
+    "year": 1988,
+    "rating": 3.6,
+    "duration": 125,
+    "genre": "Thriller",
+    "director": {
+      "name": "Bong Joon-ho",
+      "country": "India",
+      "birthYear": 1943
+    }
+  },
+  {
+    "title": "Final Loop",
+    "year": 1989,
+    "rating": 4.4,
+    "duration": 136,
+    "genre": "Thriller",
+    "director": {
+      "name": "Wes Anderson",
+      "country": "South Korea",
+      "birthYear": 1954
+    }
+  },
+  {
+    "title": "Cyber Circuit",
+    "year": 2022,
+    "rating": 4.8,
+    "duration": 146,
+    "genre": "Action",
+    "director": {
+      "name": "Jane Campion",
+      "country": "Japan",
+      "birthYear": 1972
+    }
+  },
+  {
+    "title": "Digital Mirage",
+    "year": 1995,
+    "rating": 3.2,
+    "duration": 143,
+    "genre": "Romance",
+    "director": {
+      "name": "Christopher Nolan",
+      "country": "France",
+      "birthYear": 1950
+    }
+  },
+  {
+    "title": "Echo Frame",
+    "year": 1995,
+    "rating": 2.6,
+    "duration": 99,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Greta Gerwig",
+      "country": "Japan",
+      "birthYear": 1953
+    }
+  },
+  {
+    "title": "Virtual Pulse",
+    "year": 2023,
+    "rating": 4.6,
+    "duration": 148,
+    "genre": "Sci-Fi",
+    "director": {
+      "name": "Greta Gerwig",
+      "country": "UK",
+      "birthYear": 1978
+    }
+  },
+  {
+    "title": "A Empire",
+    "year": 1991,
+    "rating": 3.0,
+    "duration": 100,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Wes Anderson",
+      "country": "Italy",
+      "birthYear": 1950
+    }
+  },
+  {
+    "title": "Digital Firewall",
+    "year": 1985,
+    "rating": 2.8,
+    "duration": 86,
+    "genre": "Drama",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "UK",
+      "birthYear": 1935
+    }
+  },
+  {
+    "title": "Nova Reboot",
+    "year": 2003,
+    "rating": 2.1,
+    "duration": 88,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Bong Joon-ho",
+      "country": "India",
+      "birthYear": 1961
+    }
+  },
+  {
+    "title": "Dark Pulse",
+    "year": 1986,
+    "rating": 2.6,
+    "duration": 123,
+    "genre": "Action",
+    "director": {
+      "name": "Wes Anderson",
+      "country": "Germany",
+      "birthYear": 1939
+    }
+  },
+  {
+    "title": "Echo Code",
+    "year": 2014,
+    "rating": 2.9,
+    "duration": 130,
+    "genre": "Animation",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "Italy",
+      "birthYear": 1980
+    }
+  },
+  {
+    "title": "Neon Edge",
+    "year": 2015,
+    "rating": 4.9,
+    "duration": 144,
+    "genre": "Romance",
+    "director": {
+      "name": "Chlo\u00e9 Zhao",
+      "country": "South Korea",
+      "birthYear": 1980
+    }
+  },
+  {
+    "title": "Digital Signal",
+    "year": 2010,
+    "rating": 2.3,
+    "duration": 95,
+    "genre": "Action",
+    "director": {
+      "name": "Chlo\u00e9 Zhao",
+      "country": "France",
+      "birthYear": 1961
+    }
+  },
+  {
+    "title": "Nova Empire",
+    "year": 2017,
+    "rating": 2.1,
+    "duration": 97,
+    "genre": "Adventure",
+    "director": {
+      "name": "Sofia Coppola",
+      "country": "South Korea",
+      "birthYear": 1970
+    }
+  },
+  {
+    "title": "Neon Signal",
+    "year": 2020,
+    "rating": 2.9,
+    "duration": 156,
+    "genre": "Adventure",
+    "director": {
+      "name": "Quentin Tarantino",
+      "country": "India",
+      "birthYear": 1971
+    }
+  },
+  {
+    "title": "Bright Edge",
+    "year": 2012,
+    "rating": 3.6,
+    "duration": 148,
+    "genre": "Thriller",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "Germany",
+      "birthYear": 1964
+    }
+  },
+  {
+    "title": "Digital Frame",
+    "year": 2013,
+    "rating": 4.0,
+    "duration": 121,
+    "genre": "Thriller",
+    "director": {
+      "name": "Jane Campion",
+      "country": "UK",
+      "birthYear": 1964
+    }
+  },
+  {
+    "title": "Lost Protocol",
+    "year": 1981,
+    "rating": 3.4,
+    "duration": 134,
+    "genre": "Thriller",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "UK",
+      "birthYear": 1936
+    }
+  },
+  {
+    "title": "Lost Code",
+    "year": 1984,
+    "rating": 3.8,
+    "duration": 87,
+    "genre": "Sci-Fi",
+    "director": {
+      "name": "Ridley Scott",
+      "country": "Japan",
+      "birthYear": 1938
+    }
+  },
+  {
+    "title": "Bright Fragment",
+    "year": 1993,
+    "rating": 2.9,
+    "duration": 107,
+    "genre": "Adventure",
+    "director": {
+      "name": "Chlo\u00e9 Zhao",
+      "country": "Japan",
+      "birthYear": 1952
+    }
+  },
+  {
+    "title": "Nova Edge",
+    "year": 2009,
+    "rating": 3.8,
+    "duration": 130,
+    "genre": "Romance",
+    "director": {
+      "name": "Denis Villeneuve",
+      "country": "Germany",
+      "birthYear": 1979
+    }
+  },
+  {
+    "title": "Virtual Dream",
+    "year": 2018,
+    "rating": 4.5,
+    "duration": 131,
+    "genre": "Action",
+    "director": {
+      "name": "Martin Scorsese",
+      "country": "USA",
+      "birthYear": 1969
+    }
+  },
+  {
+    "title": "First Reboot",
+    "year": 1986,
+    "rating": 3.2,
+    "duration": 92,
+    "genre": "Romance",
+    "director": {
+      "name": "Hayao Miyazaki",
+      "country": "Germany",
+      "birthYear": 1946
+    }
+  },
+  {
+    "title": "Dark Dream",
+    "year": 2019,
+    "rating": 2.9,
+    "duration": 144,
+    "genre": "Comedy",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "India",
+      "birthYear": 1985
+    }
+  },
+  {
+    "title": "Ghost Pulse",
+    "year": 2001,
+    "rating": 4.8,
+    "duration": 132,
+    "genre": "Thriller",
+    "director": {
+      "name": "Sofia Coppola",
+      "country": "South Korea",
+      "birthYear": 1960
+    }
+  },
+  {
+    "title": "Bright Pulse",
+    "year": 1980,
+    "rating": 2.2,
+    "duration": 90,
+    "genre": "Thriller",
+    "director": {
+      "name": "Greta Gerwig",
+      "country": "France",
+      "birthYear": 1948
+    }
+  },
+  {
+    "title": "Hidden Path",
+    "year": 1985,
+    "rating": 3.7,
+    "duration": 80,
+    "genre": "Sci-Fi",
+    "director": {
+      "name": "Denis Villeneuve",
+      "country": "Germany",
+      "birthYear": 1940
+    }
+  },
+  {
+    "title": "Nova Code",
+    "year": 1981,
+    "rating": 3.1,
+    "duration": 110,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Jane Campion",
+      "country": "UK",
+      "birthYear": 1942
+    }
+  },
+  {
+    "title": "Ghost Fragment",
+    "year": 1994,
+    "rating": 3.0,
+    "duration": 119,
+    "genre": "Thriller",
+    "director": {
+      "name": "Ridley Scott",
+      "country": "USA",
+      "birthYear": 1964
+    }
+  },
+  {
+    "title": "Virtual Protocol",
+    "year": 1993,
+    "rating": 4.2,
+    "duration": 120,
+    "genre": "Thriller",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "Germany",
+      "birthYear": 1958
+    }
+  },
+  {
+    "title": "The Dream",
+    "year": 1988,
+    "rating": 2.2,
+    "duration": 102,
+    "genre": "Sci-Fi",
+    "director": {
+      "name": "Sofia Coppola",
+      "country": "Italy",
+      "birthYear": 1954
+    }
+  },
+  {
+    "title": "Bright Empire",
+    "year": 1993,
+    "rating": 2.3,
+    "duration": 91,
+    "genre": "Action",
+    "director": {
+      "name": "Christopher Nolan",
+      "country": "USA",
+      "birthYear": 1946
+    }
+  },
+  {
+    "title": "Ghost Reboot",
+    "year": 2008,
+    "rating": 2.8,
+    "duration": 139,
+    "genre": "Animation",
+    "director": {
+      "name": "Quentin Tarantino",
+      "country": "USA",
+      "birthYear": 1959
+    }
+  },
+  {
+    "title": "Cyber Frame",
+    "year": 2002,
+    "rating": 4.5,
+    "duration": 98,
+    "genre": "Adventure",
+    "director": {
+      "name": "Christopher Nolan",
+      "country": "USA",
+      "birthYear": 1971
+    }
+  },
+  {
+    "title": "Lost Empire",
+    "year": 1989,
+    "rating": 2.4,
+    "duration": 87,
+    "genre": "Action",
+    "director": {
+      "name": "Chlo\u00e9 Zhao",
+      "country": "USA",
+      "birthYear": 1951
+    }
+  },
+  {
+    "title": "Neon Pulse",
+    "year": 1993,
+    "rating": 4.7,
+    "duration": 132,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Quentin Tarantino",
+      "country": "South Korea",
+      "birthYear": 1950
+    }
+  },
+  {
+    "title": "Echo Pulse",
+    "year": 2019,
+    "rating": 4.5,
+    "duration": 134,
+    "genre": "Romance",
+    "director": {
+      "name": "Jane Campion",
+      "country": "France",
+      "birthYear": 1988
+    }
+  },
+  {
+    "title": "Crimson Empire",
+    "year": 1993,
+    "rating": 2.8,
+    "duration": 143,
+    "genre": "Sci-Fi",
+    "director": {
+      "name": "Christopher Nolan",
+      "country": "Japan",
+      "birthYear": 1956
+    }
+  },
+  {
+    "title": "Cyber Protocol",
+    "year": 1989,
+    "rating": 4.2,
+    "duration": 97,
+    "genre": "Romance",
+    "director": {
+      "name": "Chlo\u00e9 Zhao",
+      "country": "India",
+      "birthYear": 1946
+    }
+  },
+  {
+    "title": "Lost Fragment",
+    "year": 2020,
+    "rating": 4.8,
+    "duration": 148,
+    "genre": "Comedy",
+    "director": {
+      "name": "Bong Joon-ho",
+      "country": "Germany",
+      "birthYear": 1986
+    }
+  },
+  {
+    "title": "Lost Firewall",
+    "year": 2005,
+    "rating": 2.2,
+    "duration": 145,
+    "genre": "Sci-Fi",
+    "director": {
+      "name": "Quentin Tarantino",
+      "country": "Italy",
+      "birthYear": 1961
+    }
+  },
+  {
+    "title": "Ghost Frame",
+    "year": 1984,
+    "rating": 2.2,
+    "duration": 139,
+    "genre": "Adventure",
+    "director": {
+      "name": "Ridley Scott",
+      "country": "South Korea",
+      "birthYear": 1942
+    }
+  },
+  {
+    "title": "A Kernel",
+    "year": 2021,
+    "rating": 2.3,
+    "duration": 95,
+    "genre": "Action",
+    "director": {
+      "name": "Jane Campion",
+      "country": "Italy",
+      "birthYear": 1979
+    }
+  },
+  {
+    "title": "Virtual Whisper",
+    "year": 1985,
+    "rating": 4.7,
+    "duration": 153,
+    "genre": "Action",
+    "director": {
+      "name": "Jane Campion",
+      "country": "USA",
+      "birthYear": 1955
+    }
+  },
+  {
+    "title": "Echo Path",
+    "year": 2000,
+    "rating": 2.8,
+    "duration": 114,
+    "genre": "Drama",
+    "director": {
+      "name": "Sofia Coppola",
+      "country": "Italy",
+      "birthYear": 1952
+    }
+  },
+  {
+    "title": "Crimson Reboot",
+    "year": 1995,
+    "rating": 4.0,
+    "duration": 151,
+    "genre": "Romance",
+    "director": {
+      "name": "Ridley Scott",
+      "country": "India",
+      "birthYear": 1956
+    }
+  },
+  {
+    "title": "Digital Pulse",
+    "year": 1991,
+    "rating": 4.8,
+    "duration": 150,
+    "genre": "Drama",
+    "director": {
+      "name": "Bong Joon-ho",
+      "country": "India",
+      "birthYear": 1946
+    }
+  },
+  {
+    "title": "Cold Loop",
+    "year": 2020,
+    "rating": 2.6,
+    "duration": 117,
+    "genre": "Adventure",
+    "director": {
+      "name": "Christopher Nolan",
+      "country": "Germany",
+      "birthYear": 1990
+    }
+  },
+  {
+    "title": "A Loop",
+    "year": 1990,
+    "rating": 2.6,
+    "duration": 114,
+    "genre": "Romance",
+    "director": {
+      "name": "Steven Spielberg",
+      "country": "USA",
+      "birthYear": 1952
+    }
+  },
+  {
+    "title": "Beyond Pulse",
+    "year": 2020,
+    "rating": 3.0,
+    "duration": 90,
+    "genre": "Action",
+    "director": {
+      "name": "Chlo\u00e9 Zhao",
+      "country": "Japan",
+      "birthYear": 1976
+    }
+  },
+  {
+    "title": "Dark Fragment",
+    "year": 2012,
+    "rating": 3.1,
+    "duration": 109,
+    "genre": "Sci-Fi",
+    "director": {
+      "name": "Wes Anderson",
+      "country": "Germany",
+      "birthYear": 1980
+    }
+  },
+  {
+    "title": "Virtual Loop",
+    "year": 2010,
+    "rating": 5.0,
+    "duration": 142,
+    "genre": "Adventure",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "Italy",
+      "birthYear": 1974
+    }
+  },
+  {
+    "title": "A Frame",
+    "year": 1993,
+    "rating": 2.2,
+    "duration": 87,
+    "genre": "Animation",
+    "director": {
+      "name": "Christopher Nolan",
+      "country": "UK",
+      "birthYear": 1958
+    }
+  },
+  {
+    "title": "Ghost Whisper",
+    "year": 1982,
+    "rating": 5.0,
+    "duration": 140,
+    "genre": "Thriller",
+    "director": {
+      "name": "Wes Anderson",
+      "country": "Italy",
+      "birthYear": 1952
+    }
+  },
+  {
+    "title": "First Protocol",
+    "year": 2011,
+    "rating": 3.5,
+    "duration": 95,
+    "genre": "Action",
+    "director": {
+      "name": "Sofia Coppola",
+      "country": "Germany",
+      "birthYear": 1967
+    }
+  },
+  {
+    "title": "Echo Protocol",
+    "year": 1999,
+    "rating": 4.2,
+    "duration": 109,
+    "genre": "Comedy",
+    "director": {
+      "name": "Ridley Scott",
+      "country": "Italy",
+      "birthYear": 1959
+    }
+  },
+  {
+    "title": "Lost Frame",
+    "year": 2001,
+    "rating": 2.7,
+    "duration": 138,
+    "genre": "Action",
+    "director": {
+      "name": "Sofia Coppola",
+      "country": "Italy",
+      "birthYear": 1966
+    }
+  },
+  {
+    "title": "Last Path",
+    "year": 2005,
+    "rating": 4.0,
+    "duration": 130,
+    "genre": "Drama",
+    "director": {
+      "name": "Quentin Tarantino",
+      "country": "UK",
+      "birthYear": 1969
+    }
+  },
+  {
+    "title": "Ghost Firewall",
+    "year": 2004,
+    "rating": 3.0,
+    "duration": 150,
+    "genre": "Adventure",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "Italy",
+      "birthYear": 1962
+    }
+  },
+  {
+    "title": "The Fragment",
+    "year": 2000,
+    "rating": 2.7,
+    "duration": 109,
+    "genre": "Romance",
+    "director": {
+      "name": "Christopher Nolan",
+      "country": "Italy",
+      "birthYear": 1951
+    }
+  },
+  {
+    "title": "Neon Dream",
+    "year": 2015,
+    "rating": 2.6,
+    "duration": 107,
+    "genre": "Comedy",
+    "director": {
+      "name": "Steven Spielberg",
+      "country": "France",
+      "birthYear": 1968
+    }
+  },
+  {
+    "title": "Hidden Frame",
+    "year": 2007,
+    "rating": 4.6,
+    "duration": 83,
+    "genre": "Comedy",
+    "director": {
+      "name": "Wes Anderson",
+      "country": "France",
+      "birthYear": 1959
+    }
+  },
+  {
+    "title": "Crimson Pulse",
+    "year": 2014,
+    "rating": 4.6,
+    "duration": 127,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Denis Villeneuve",
+      "country": "UK",
+      "birthYear": 1968
+    }
+  },
+  {
+    "title": "Final Pulse",
+    "year": 2010,
+    "rating": 3.6,
+    "duration": 93,
+    "genre": "Thriller",
+    "director": {
+      "name": "Bong Joon-ho",
+      "country": "USA",
+      "birthYear": 1967
+    }
+  },
+  {
+    "title": "Bright Kernel",
+    "year": 1995,
+    "rating": 2.3,
+    "duration": 155,
+    "genre": "Animation",
+    "director": {
+      "name": "Chlo\u00e9 Zhao",
+      "country": "Italy",
+      "birthYear": 1962
+    }
+  },
+  {
+    "title": "Beyond Fragment",
+    "year": 2018,
+    "rating": 4.6,
+    "duration": 131,
+    "genre": "Action",
+    "director": {
+      "name": "Jordan Peele",
+      "country": "India",
+      "birthYear": 1984
+    }
+  },
+  {
+    "title": "Last Firewall",
+    "year": 2003,
+    "rating": 3.9,
+    "duration": 145,
+    "genre": "Comedy",
+    "director": {
+      "name": "Greta Gerwig",
+      "country": "France",
+      "birthYear": 1955
+    }
+  },
+  {
+    "title": "Cold Protocol",
+    "year": 1996,
+    "rating": 3.5,
+    "duration": 158,
+    "genre": "Sci-Fi",
+    "director": {
+      "name": "Jane Campion",
+      "country": "France",
+      "birthYear": 1960
+    }
+  },
+  {
+    "title": "Beyond Bloom",
+    "year": 2021,
+    "rating": 3.3,
+    "duration": 98,
+    "genre": "Action",
+    "director": {
+      "name": "Jane Campion",
+      "country": "France",
+      "birthYear": 1989
+    }
+  },
+  {
+    "title": "Dark Signal",
+    "year": 2013,
+    "rating": 4.3,
+    "duration": 100,
+    "genre": "Comedy",
+    "director": {
+      "name": "Sofia Coppola",
+      "country": "UK",
+      "birthYear": 1968
+    }
+  },
+  {
+    "title": "Virtual Code",
+    "year": 2012,
+    "rating": 4.1,
+    "duration": 156,
+    "genre": "Animation",
+    "director": {
+      "name": "Chlo\u00e9 Zhao",
+      "country": "India",
+      "birthYear": 1967
+    }
+  },
+  {
+    "title": "Crimson Dust",
+    "year": 1984,
+    "rating": 3.4,
+    "duration": 141,
+    "genre": "Adventure",
+    "director": {
+      "name": "Wes Anderson",
+      "country": "Germany",
+      "birthYear": 1936
+    }
+  },
+  {
+    "title": "Beyond Whisper",
+    "year": 2017,
+    "rating": 2.9,
+    "duration": 112,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Steven Spielberg",
+      "country": "USA",
+      "birthYear": 1981
+    }
+  },
+  {
+    "title": "The Edge",
+    "year": 2023,
+    "rating": 3.8,
+    "duration": 150,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Greta Gerwig",
+      "country": "Japan",
+      "birthYear": 1976
+    }
+  },
+  {
+    "title": "Ghost Protocol",
+    "year": 2017,
+    "rating": 3.3,
+    "duration": 158,
+    "genre": "Action",
+    "director": {
+      "name": "Steven Spielberg",
+      "country": "India",
+      "birthYear": 1968
+    }
+  },
+  {
+    "title": "The Frame",
+    "year": 2014,
+    "rating": 2.0,
+    "duration": 91,
+    "genre": "Sci-Fi",
+    "director": {
+      "name": "Sofia Coppola",
+      "country": "Germany",
+      "birthYear": 1967
+    }
+  },
+  {
+    "title": "The Mirage",
+    "year": 2022,
+    "rating": 4.2,
+    "duration": 128,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "USA",
+      "birthYear": 1988
+    }
+  },
+  {
+    "title": "Ghost Dream",
+    "year": 2005,
+    "rating": 4.2,
+    "duration": 100,
+    "genre": "Adventure",
+    "director": {
+      "name": "Wes Anderson",
+      "country": "France",
+      "birthYear": 1970
+    }
+  },
+  {
+    "title": "Bright Protocol",
+    "year": 1981,
+    "rating": 2.4,
+    "duration": 138,
+    "genre": "Romance",
+    "director": {
+      "name": "Bong Joon-ho",
+      "country": "Germany",
+      "birthYear": 1941
+    }
+  },
+  {
+    "title": "Nova Fragment",
+    "year": 2011,
+    "rating": 4.3,
+    "duration": 133,
+    "genre": "Sci-Fi",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "Japan",
+      "birthYear": 1973
+    }
+  },
+  {
+    "title": "Neon Circuit",
+    "year": 2020,
+    "rating": 2.8,
+    "duration": 126,
+    "genre": "Comedy",
+    "director": {
+      "name": "Jane Campion",
+      "country": "Germany",
+      "birthYear": 1983
+    }
+  },
+  {
+    "title": "Cold Empire",
+    "year": 2018,
+    "rating": 3.7,
+    "duration": 125,
+    "genre": "Drama",
+    "director": {
+      "name": "Chlo\u00e9 Zhao",
+      "country": "USA",
+      "birthYear": 1974
+    }
+  },
+  {
+    "title": "The Whisper",
+    "year": 2011,
+    "rating": 3.6,
+    "duration": 153,
+    "genre": "Action",
+    "director": {
+      "name": "Greta Gerwig",
+      "country": "UK",
+      "birthYear": 1964
+    }
+  },
+  {
+    "title": "Silent Edge",
+    "year": 2019,
+    "rating": 4.4,
+    "duration": 120,
+    "genre": "Action",
+    "director": {
+      "name": "Ridley Scott",
+      "country": "India",
+      "birthYear": 1983
+    }
+  },
+  {
+    "title": "Echo Mirage",
+    "year": 1996,
+    "rating": 2.2,
+    "duration": 154,
+    "genre": "Fantasy",
+    "director": {
+      "name": "Christopher Nolan",
+      "country": "France",
+      "birthYear": 1957
+    }
+  },
+  {
+    "title": "Nova Frame",
+    "year": 1983,
+    "rating": 3.1,
+    "duration": 147,
+    "genre": "Comedy",
+    "director": {
+      "name": "Martin Scorsese",
+      "country": "Germany",
+      "birthYear": 1942
+    }
+  },
+  {
+    "title": "Beyond Reboot",
+    "year": 1997,
+    "rating": 3.3,
+    "duration": 112,
+    "genre": "Comedy",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "Japan",
+      "birthYear": 1962
+    }
+  },
+  {
+    "title": "Hidden Pulse",
+    "year": 1987,
+    "rating": 2.0,
+    "duration": 130,
+    "genre": "Drama",
+    "director": {
+      "name": "Jane Campion",
+      "country": "France",
+      "birthYear": 1946
+    }
+  },
+  {
+    "title": "Last Signal",
+    "year": 1984,
+    "rating": 4.7,
+    "duration": 80,
+    "genre": "Thriller",
+    "director": {
+      "name": "Patty Jenkins",
+      "country": "USA",
+      "birthYear": 1948
+    }
+  },
+  {
+    "title": "Digital Edge",
+    "year": 1994,
+    "rating": 3.4,
+    "duration": 132,
+    "genre": "Thriller",
+    "director": {
+      "name": "Quentin Tarantino",
+      "country": "France",
+      "birthYear": 1952
+    }
+  }
+]

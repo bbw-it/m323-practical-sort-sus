@@ -1,0 +1,36 @@
+Erweiterte Anforderung meine Erklärung
+
+
+Natural Order:
+--------------
+Die natürliche Reihenfolge (Natural Order) wird in Java über das Interface Comparable<T> realisiert.
+Dazu muss die Klasse die Methode compareTo(...) implementieren.
+
+In meinem Projekt:
+Die Klasse Person implementiert Comparable<Person> und definiert in compareTo(...) einen Vergleich nach dem Namen.
+Beispiel: Collections.sort(personen) verwendet diese natürliche Reihenfolge automatisch.
+
+Reverse Order:
+--------------
+Die umgekehrte Reihenfolge wird mit Comparator.reversed() erzeugt.
+
+Beispiel im Code:
+Comparator.comparing(Person::getName).reversed()
+Diese Methode kehrt die bestehende Reihenfolge um, egal ob natürliche oder eine benutzerdefinierte.
+
+Wie sortiert Java intern?
+-------------------------
+Collections.sort(...) verwendet intern TimSort, also eine optimierte Variante von MergeSort.
+TimSort kombiniert MergeSort mit InsertionSort und ist besonders effizient bei fast sortierten Daten.
+Der Algorithmus sind stabil, also das bedeutet, dass Elemente mit gleichem Wert ihre Reihenfolge behalten.
+
+Unterschied Comparable vs Comparator:
+-------------------------------------
+Comparable<T>:
+--> Wird direkt in der Klasse implementiert.
+--> compareTo(...) legt eine feste natürliche Ordnung fest (z. B. nach Name).
+
+Comparator<T>:
+--> Wird extern genutzt (z.Bsp Lambda, eigene Klasse, Chain).
+--> Vergleich ist flexibel: man kann nach Alter, Geburtsdatum, Kombinationen usw. sortieren.
+

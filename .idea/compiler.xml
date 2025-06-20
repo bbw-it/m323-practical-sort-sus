@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Aufgabe_16 (6)" />
+        <module name="FunktionalSortieren (1) (ch.bbw.ss)" />
+        <module name="Aufgabe_16 (4)" />
+        <module name="Aufgabe_16 (2)" />
+        <module name="FunktionalSortieren (2) (ch.bbw.ss)" />
+        <module name="FunktionalesSortierenCountryExample" />
+        <module name="16-2-funktional" />
+        <module name="movieng" />
+        <module name="FunktionalesProgrammierenBruno" />
+        <module name="productsFktSorting" />
+        <module name="functionalSort" />
+        <module name="FunktionalesSortieren" />
+        <module name="FunktionalSortieren" />
+        <module name="funktionales-sortieren (2) (com.example)" />
+        <module name="M323-Sort-struct-data" />
+        <module name="_16-project-sort-functional" />
+        <module name="funktionales-sortieren (1) (ch.bbw.m323)" />
+        <module name="m323" />
+        <module name="Aufgabe_16" />
+        <module name="ZooProject" />
+        <module name="functional-sorting" />
+        <module name="funktionales-sortieren" />
+        <module name="Aufgabe16_2" />
+        <module name="FunktionalesProgrammieren" />
+        <module name="Aufgabe_16 (8)" />
+        <module name="funktionales-sortieren (1) (com.example)" />
+        <module name="Aufgabe_16 (5)" />
+        <module name="Aufgabe_16 (3)" />
+        <module name="Aufgabe_16 (1)" />
+        <module name="Praktische_Umsetzung_M323" />
+        <module name="PraktischeUmsetzungSortieren" />
+        <module name="Funktionales_Sortieren" />
+        <module name="FunktionalesSortiere" />
+        <module name="FunktionalSortieren (1) (org.example)" />
+        <module name="16.2" />
+        <module name="EigeneFunktionaleAnwendung" />
+        <module name="Aufgabe_16 (7)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

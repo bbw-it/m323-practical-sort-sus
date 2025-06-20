@@ -1,0 +1,6 @@
+com\sorting\model\Student.class
+com\sorting\model\Address.class
+com\sorting\util\StudentSorter$LastNameComparator.class
+com\sorting\util\StudentSorter.class
+com\sorting\model\Course.class
+com\sorting\util\StudentSorter$1.class

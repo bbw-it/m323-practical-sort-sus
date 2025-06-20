@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01/pom.xml" />
+        <option value="$PROJECT_DIR$/02/pom.xml" />
+        <option value="$PROJECT_DIR$/03/pom.xml" />
+        <option value="$PROJECT_DIR$/04/pom.xml" />
+        <option value="$PROJECT_DIR$/05/pom.xml" />
+        <option value="$PROJECT_DIR$/06/pom.xml" />
+        <option value="$PROJECT_DIR$/08/pom.xml" />
+        <option value="$PROJECT_DIR$/10/pom.xml" />
+        <option value="$PROJECT_DIR$/12/pom.xml" />
+        <option value="$PROJECT_DIR$/13/pom.xml" />
+        <option value="$PROJECT_DIR$/15/pom.xml" />
+        <option value="$PROJECT_DIR$/16/pom.xml" />
+        <option value="$PROJECT_DIR$/17/pom.xml" />
+        <option value="$PROJECT_DIR$/18/pom.xml" />
+        <option value="$PROJECT_DIR$/22/pom.xml" />
+        <option value="$PROJECT_DIR$/23/pom.xml" />
+        <option value="$PROJECT_DIR$/24/pom.xml" />
+        <option value="$PROJECT_DIR$/26/pom.xml" />
+        <option value="$PROJECT_DIR$/27/pom.xml" />
+        <option value="$PROJECT_DIR$/28/pom.xml" />
+        <option value="$PROJECT_DIR$/29/pom.xml" />
+        <option value="$PROJECT_DIR$/30/pom.xml" />
+        <option value="$PROJECT_DIR$/31/pom.xml" />
+        <option value="$PROJECT_DIR$/32/pom.xml" />
+        <option value="$PROJECT_DIR$/33/pom.xml" />
+        <option value="$PROJECT_DIR$/09/pom.xml" />
+        <option value="$PROJECT_DIR$/14/pom.xml" />
+        <option value="$PROJECT_DIR$/11/pom.xml" />
+        <option value="$PROJECT_DIR$/19/pom.xml" />
+        <option value="$PROJECT_DIR$/20/pom.xml" />
+        <option value="$PROJECT_DIR$/21/pom.xml" />
+        <option value="$PROJECT_DIR$/25/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
